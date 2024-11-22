@@ -44,7 +44,7 @@ A fun and interactive pizza ordering system that allows users to customize their
 ### **🚀 Steps to Run the Project**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/saraanbih/Pizza-Order-System.git
+   git clone https://github.com/saraanbih/Pizza-Project.git
    ```
 2. Open the project folder in [IDE or Text Editor] (e.g., Visual Studio Code, etc.).
 3. [Additional setup instructions, if needed, like installing dependencies or configuring environment.]
