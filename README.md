@@ -55,7 +55,7 @@ A fun and interactive pizza ordering system that allows users to customize their
 ## **📸 Screenshots**
 
 #### **Pizza Customization**
-![Uploading Pizza.png…]()
+![Pizza](https://github.com/user-attachments/assets/bc6f0aad-8c62-4591-af3d-e436e5b11f25)
 
 *Select size, crust, toppings, and delivery options for your pizza.*
 
